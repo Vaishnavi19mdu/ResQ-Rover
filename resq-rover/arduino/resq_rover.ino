@@ -1,6 +1,6 @@
 /*
   PHASE 4 - FULL AUTONOMOUS OBSTACLE-AVOIDING ROVER
-  ------------------------------------------------------
+  --------------------------------------------------------
   Combines: HC-SR04 ultrasonic + SG90 servo scanning + L298N motor control
 
   Pin map:
